@@ -1,6 +1,7 @@
 # 14 Model-View-Controller (MVC): Tech Blog
 
 Needed improvements
+
 -does not deploy locally because of a mysql error
 
 ```md
